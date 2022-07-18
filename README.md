@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Reproduction for the issue
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+https://github.com/nuxt/framework/issues/5954
+
+> Should be fixed in RC.6. Thanks for report and reproduction 👍🏼
 
 ## Setup
 
